@@ -1,4 +1,4 @@
-![Open Source at Automattic](https://github.com/automattic/.github/blob/main/images/open-source-at-automattic.png)
+![Open Source at Automattic](https://github.com/Automattic/.github/blob/trunk/images/open-source-at-automattic.png)
 
 **Automattic is Hiring!**
 
