@@ -2,4 +2,4 @@
 
 **Automattic is Hiring!**
 
-Unlock the power of open source and distributed work. [Come join us!](https://automattic.com/work-with-us/)
+Unlock the power of open source and distributed work. [Come join us!](https://automattic.com/work-with-us/?utm_source=github&utm_medium=referral&utm_campaign=github_readme)
